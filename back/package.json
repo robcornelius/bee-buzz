@@ -1,0 +1,25 @@
+{
+  "name": "bee-buzz-back",
+  "version": "1.0.0",
+  "description": "node/express/mongo backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcornelius/bee-buzz.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongo",
+    "bees"
+  ],
+  "author": "Rob Cornelius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robcornelius/bee-buzz/issues"
+  },
+  "homepage": "https://github.com/robcornelius/bee-buzz#readme"
+}
