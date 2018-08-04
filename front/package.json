@@ -1,0 +1,23 @@
+{
+  "name": "bee-buzz-front",
+  "version": "1.0.0",
+  "description": "bee-buzz front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcornelius/bee-buzz.git"
+  },
+  "keywords": [
+    "react",
+    "bees"
+  ],
+  "author": "Rob Cornelius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robcornelius/bee-buzz/issues"
+  },
+  "homepage": "https://github.com/robcornelius/bee-buzz#readme"
+}
