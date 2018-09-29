@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5bacc304ac84a115c03423e2"},"hive_id":"Hardys_Top_Bar","humidity_sensor_readings":[{"$numberInt":"87"},{"$numberInt":"75"}],"temperature_sensor_readings":[{"$numberInt":"28"},{"$numberInt":"19"}]}
+{"_id":{"$oid":"5bacc304ac84a115c03423e3"},"hive_id":"Hardys_Top_Bar","humidity_sensor_readings":[{"$numberInt":"82"},{"$numberInt":"78"}],"temperature_sensor_readings":[{"$numberInt":"22"},{"$numberInt":"20"}]}
+{"_id":{"$oid":"5bacc304ac84a115c03423e4"},"hive_id":"Hardys_Top_Bar","humidity_sensor_readings":[{"$numberInt":"90"},{"$numberInt":"74"}],"temperature_sensor_readings":[{"$numberInt":"26"},{"$numberInt":"16"}]}
+{"_id":{"$oid":"5bacc304ac84a115c03423e5"},"hive_id":"Hardys_Top_Bar","humidity_sensor_readings":[{"$numberInt":"84"},{"$numberInt":"77"}],"temperature_sensor_readings":[{"$numberInt":"25"},{"$numberInt":"17"}]}
+{"_id":{"$oid":"5bacc388ac84a115c03423ea"},"hive_id":"Hardys_National","humidity_sensor_readings":[{"$numberInt":"87"},{"$numberInt":"75"}],"temperature_sensor_readings":[{"$numberInt":"28"},{"$numberInt":"19"}]}
+{"_id":{"$oid":"5bacc388ac84a115c03423eb"},"hive_id":"Hardys_National","humidity_sensor_readings":[{"$numberInt":"82"},{"$numberInt":"78"}],"temperature_sensor_readings":[{"$numberInt":"22"},{"$numberInt":"20"}]}
+{"_id":{"$oid":"5bacc388ac84a115c03423ec"},"hive_id":"Hardys_National","humidity_sensor_readings":[{"$numberInt":"90"},{"$numberInt":"74"}],"temperature_sensor_readings":[{"$numberInt":"26"},{"$numberInt":"16"}]}
+{"_id":{"$oid":"5bacc388ac84a115c03423ed"},"hive_id":"Hardys_National","humidity_sensor_readings":[{"$numberInt":"84"},{"$numberInt":"77"}],"temperature_sensor_readings":[{"$numberInt":"25"},{"$numberInt":"17"}]}
