@@ -1,0 +1,31 @@
+Cornelius.buzz is for beekeepers
+
+It will enable them to keep both automated and manual records of their hives.
+
+It will interface with other sites such as beebase http://www.nationalbeeunit.com/index.cfm
+
+It will enable the aggregation of anonymized statistics across all users and for all users
+
+It will get local weather feeds automatically
+
+It will display data in meaningful ways to all users
+
+It will be simple to use at every level
+
+It will enable beekeeping groups to share records amongst their own group members and also produce aggregated statistics for the group
+
+security is a priority
+
+It will be usuable across all devices from a phone upwards. There will not be an app yet.
+
+MVP
+
+manual records for hive, apiary and beekeeper CRUD
+
+Stage 2
+
+Add in electronics CRUD and graphs etc
+
+Stage 3
+
+Add in groups and aggregations
