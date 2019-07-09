@@ -5,6 +5,7 @@ General elements
 * Hive
     * manual inspection records
     * automatic monitoring records
+* Group
 
 All records have created and modified timestamp and generated id
 
@@ -12,6 +13,7 @@ USER
 
 * first name (text)
 * last name (text)
+* email (email)
 * home address (text, several lines + postcode)
 * beebase details (username / password)
 * experience in years? (number) 
@@ -80,3 +82,9 @@ Automatic records
     * windspeed (number + units)
     * rain / snow etc (text)
 
+Group
+
+* name (text)
+* contact address (mulitline + postcode)
+* contact email (email)
+* members (array of user ids)
