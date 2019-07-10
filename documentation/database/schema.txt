@@ -14,6 +14,8 @@ USER
 * first name (text)
 * last name (text)
 * email (email)
+* display name (text)
+* password (encrypted)
 * home address (text, several lines + postcode)
 * beebase details (username / password)
 * experience in years? (number) 
