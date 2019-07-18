@@ -1,5 +1,7 @@
 Random list of things that would be good to share
 
+TWITTER integration like that #uksnow thing
+
 All depend on location and timestamp and tie to weather feed too
 
 * diseases
