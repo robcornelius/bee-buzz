@@ -1,0 +1,29 @@
+The user will be able to CRUD their personal information such as
+    * name
+    * contact details
+    * photo
+
+The user can CRUD the details of their apiaries
+    * name
+    * location
+
+The user can CRUD the details of the hives in a apiary
+    * name
+    * type
+    * etc
+
+The user can view reports on their own apiaries/hives including aggregated data
+
+The user can view their apiaries/hives on a map with the exact location shown.
+
+The user can view the details of friends with non-anonymised data shown
+
+The user can view the details of group memebers with anonymous data shown
+
+The user can join and leave groups
+
+The user can add and remove friends
+
+The user can recieve notifications from groups and friends and send notifications
+
+The user can make aggregate "queries" over data they have access too

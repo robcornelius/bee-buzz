@@ -1,0 +1,15 @@
+The group admin can see all data of all group memebers UNLESS it is marked private
+
+The group admin will be able to run "queries" to analyse data
+
+The group admin will be able to add and remove users from the group
+
+The group admin will be able to pass the group ownership to another memeber of the group
+
+The group admin will be able to view the exact locations of group memembers apiaries
+
+The group admin will be able to message group memeber via email through the site
+
+(((SUBGROUPS????)))
+
+(((More than one group admin per group?)))

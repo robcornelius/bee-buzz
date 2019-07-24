@@ -1,0 +1,26 @@
+The user will be able to choose from a list of their apiaries
+
+The user will be able to choose a hive in an apiary
+
+The user can enter data for all the "standard" beebase fields
+
+The user can add custom field not limited to
+    * pictures
+    * video
+    * sound?
+    * text
+
+The report will automatically be tied to the nearest weather feed location. 
+
+The report will be saved to the users records
+
+The report data will be validated before saving
+
+The user will be able to edit existing reports
+
+The user will be able to share reports with friends and group memembers on a per report basis.
+
+The user will be able to unshare or mark a report as private
+
+POSSIBLE the user could choose to share some information and not others
+
