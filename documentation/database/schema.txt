@@ -1,0 +1,92 @@
+General elements
+
+* User
+* Apiary
+* Hive
+    * manual inspection records
+    * automatic monitoring records
+* Group
+
+All records have created and modified timestamp and generated id
+
+USER
+
+* first name (text)
+* last name (text)
+* email (email)
+* display name (text)
+* password (encrypted)
+* home address (text, several lines + postcode)
+* beebase details (username / password)
+* experience in years? (number) 
+* avatar? (url)
+* allow user to add text fields?
+
+Apiary
+
+* lat/long (number/number)
+* address (text, several lines + postcode)
+* notes (text)
+* photos (array of urls)
+* allow user to add fields (text)
+* landowner details? (text + address)
+
+Hive
+
+    * type of hive (text)
+    * queen age (number)
+    * queen mark (text)
+    * queen status (boolean)
+    * name (text)
+    * total number of brood frames (number)
+    * total number of super frames (number)
+
+Inspection
+
+* queen right (boolean)
+* brood in number of frames
+    * eggs (number)
+    * larvae (number)
+    * capped brood (number)
+    * drone brood (number)
+* honey (number)
+* pollen (number)
+* queen cell(s) present (boolean)
+* temperment (text)
+* user notes (text)
+* observed weather data
+    * temperature (number + units???)
+    * humidity (number)
+    * sunshine (boolean)
+    * windspeed (number + units???)
+    * rain / snow etc (text)
+* weather data from feed
+    * temperature (number + units)
+    * humidity (number)
+    * sunshine (boolean)
+    * windspeed (number + units)
+    * rain / snow etc (text)
+
+Automatic records
+
+* temperature
+    * inside (number + units)
+    * outside (number + units)
+* humidity
+    * inside (number + units)
+    * outside (number + units)
+* weight (number + units)
+* sound (not sure yet)
+* weather data
+    * temperature (number + units)
+    * humidity (number + units)
+    * sunshine (boolean)
+    * windspeed (number + units)
+    * rain / snow etc (text)
+
+Group
+
+* name (text)
+* contact address (mulitline + postcode)
+* contact email (email)
+* members (array of user ids)

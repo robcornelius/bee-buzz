@@ -1,0 +1,25 @@
+Homepage with general information.
+
+Register and login links on page
+
+Click register
+
+Standard registration form with fields for 
+
+* first name
+* last name
+* display name
+* password
+* email
+* postcode
+* home address
+* avatar
+* user defined fields?
+
+Do postcode look up for address.
+
+validate email address and password strength
+
+When successful validation and user created redirect to the add an apiary page
+
+

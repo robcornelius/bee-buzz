@@ -1,0 +1,47 @@
+Random list of things that would be good to share
+
+TWITTER integration like that #uksnow thing
+
+All depend on location and timestamp and tie to weather feed too
+
+* diseases
+    * Foul Brood
+    * Chalk Brood
+    * all notifiable diseases
+* Pests
+    * asian hornets
+    * Wax Moth
+    * SHB
+    * any other notifiable and notable
+* Swarming
+    * queen cells
+    * splits
+        * different methods
+    * uniting
+    * wild swarms in area
+* Honey collection
+    * yields
+    * quality
+    * pollen / propolis
+    * local forage?
+* Temperament
+    * docile / aggressive
+* Queen status
+    * brood quality and quantity
+    * mating
+    * drones
+* rate of change in honey / brood etc
+
+User would be presented with a map of the UK with time controls.
+
+There will be a menu of choices for additional information which can be added to the map. See above for details.
+
+Individual locations of events on the map will be obfusticated e.g. random location within a certain distance of the real event. If the user is a group admin they see real locations for their group memebers
+
+Group admins can choose to show only their group. Normal users see all data (see above)
+
+Friends see real location of friends events
+
+See real location of your own events
+
+

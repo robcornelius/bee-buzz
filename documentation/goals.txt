@@ -1,0 +1,53 @@
+Cornelius.buzz is for beekeepers
+
+It will enable them to keep both automated and manual records of their hives.
+
+It will interface with other sites such as beebase http://www.nationalbeeunit.com/index.cfm
+
+It will enable the aggregation of anonymized statistics across all users and for all users
+
+It will get local weather feeds automatically
+
+It will display data in meaningful ways to all users
+
+It will be simple to use at every level
+
+It will enable beekeeping groups to share records amongst their own group members and also produce aggregated statistics for the group
+    Group members only see anonymous stats for their group
+    Admins see non-anonymous stats for their group (location, contact details, etc)
+
+It will enable beekeepers to become "friends" with other users
+    Friends will be able to share non-anonymised data
+    Friends will be able to message one another
+
+It will enable users to see a list of anonymous apiaries in a radius around their apiaries but not see who owns them. They can send freind invites to these apiaries owners.
+
+It will enable users to search for other users by name and add them as friends with no geographical limit.
+
+It will enable users to be members of more than one group
+
+It will enable aggregations by hive type, number of hives in an apiary, number of apiaries a user has etc etc etc
+
+It will enable group admins to add users
+
+It will enable group admins to send messages to the entire group
+
+security is a priority
+
+It will be usuable across all devices from a phone upwards. There will not be an app yet.
+
+MVP
+
+manual records for hive, apiary and beekeeper CRUD
+
+Stage 2
+
+Add in electronics CRUD and graphs etc
+
+Stage 3
+
+Add in groups and aggregations
+
+Stage 4 
+
+social features
