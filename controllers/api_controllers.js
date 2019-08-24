@@ -2,23 +2,21 @@
 
 var express = require('express');
 var mongoose = require('mongoose');
-var Beehive = require('../models/api_model');
+var models = require('../models/api_model');
 
 mongoose.connect('mongodb://localhost:27017/bees');
 
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
-db.once('open', function() {
-  // we're connected!
-    console.log('it worked');
-    Beehive.find({}, (err, beehives) => {
-        let context = {
-            beehives: beehives.map((beehive) => {
-                console.log('hiveId', beehive.hive_id);
-            })
-        }
-    })
+
+var query = models.Beehive.findOne({'hive_type': 'Top Bar'});
+query.select('hive_id');
+query.exec((err, hive) => {
+	if (err) return handleError(err);
+	debugger;
+	console.log(hive['hive_id']);
 });
+
 /*
 const postHive = (id, data) =>  {
 

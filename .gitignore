@@ -63,3 +63,4 @@ typings/
 # vim stuff
 *.*~
 *.swp
+package-lock.json
