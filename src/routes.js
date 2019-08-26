@@ -1,6 +1,22 @@
-export default {
-    Api_port: 3000, // Your Free Port For this server
-    App_key: 'gglgm"7_"Tx?MT-eyY_.[EoElhX6Fl', // unique string for jwt
-    DB_URL: 'mongodb://localhost:27017/test' // Your mongodb string
-}
+import usersController from './controller/usersController';
+import authController from './controller/authController';
 
+
+
+const routes = (route) => {
+	//USERS
+	route.route('/users')
+		.get(userController.getAll)
+		.post(userController.create);
+	route.route('/users/:id')
+		.get(usersController.getOne)
+		.put(usersController.update)
+		.delete(usersController.delete)
+	/*
+	 * TODO get CRUD working first
+	route.route('/user/login')
+		.post(authController.login);
+	route.route('/user/register')
+		.post(authController.register);
+	*/
+}
