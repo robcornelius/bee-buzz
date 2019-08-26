@@ -1,0 +1,31 @@
+COMPONENTS
+	static html/css/js
+	records
+	graphs
+	aggregation
+	photos
+
+static
+	s3 bucket
+photos
+	s3 bucket uploading
+	s3 bucket for resized
+records
+	rest endpoints
+		lambda / express microservice
+		dynamodb
+		SQS for adding records
+aggregation
+	rest endpoints
+	lambda / express microservice
+	tensorflow?
+	graphQL? for user def queries?
+	get data from dynamodb
+	SQS
+graphs
+	rest enpoints
+	lambda / express microservice
+	graphQL? for user def queries?
+	get data from dynamodb
+	SQS
+

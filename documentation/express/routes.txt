@@ -1,0 +1,31 @@
+Routes / url structure.
+
+/registration
+    /confirmation
+    /unregister
+        /confirmation
+
+/inspection
+    /confirmation
+
+/report
+    /group
+        /map
+    /individual
+        /map
+    /friends
+        /map
+
+/groups
+    /user
+    /admin
+        /CRUD
+    /join
+        /confirmation
+    /leave
+        /confirmation
+
+/friends
+    /add
+    /remove
+

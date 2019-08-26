@@ -1,0 +1,11 @@
+The group admin should be able to see reports for all members of the group. Unless the user has opted out the data is not anonymised
+
+The reports will include the same data as a user report
+
+The group admin should be able to view aggregated reports for the group members data
+
+The group admin should be able to pick individual memebers of a group for a report.
+
+The group admin should be able to share anonymised reports with the group
+
+The group admin should be able to view reports on a map

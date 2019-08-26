@@ -1,0 +1,20 @@
+The user should be able to access a report showing full data from their own hives
+
+The user should be able to access a report showing anonymised data from any group they are a member of.
+
+The user should be able to access a report showing full data of their friends hives
+
+The data will include but not be limited to
+    * hive inspection records
+    * weather data
+    * temperment of hive
+    * honey / wax / propolis yield
+    * queen details
+    * data from queen breeding
+All of these can be shown over time and both in tabular and graphical format.
+
+The user will be able to view basic data and locations of apiaries on a map.
+
+If the data for a report is anonymised then the location of the apiary is randomised within a given radius of the real location.
+
+
