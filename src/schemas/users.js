@@ -20,6 +20,23 @@ const usersSchema = new mongoose.Schema(
             unique: true,
             required: true
         },
+	home_address: {
+	    type: String,
+	    unique: true,
+	    required: true
+	},
+	experience: {
+		type: Number
+	},
+	beebase_details: [{
+		username: String,
+		password: String
+	}],
+	//avatar: {}
+	//either a data stream or a s3 url
+	user_description: {
+		type: String
+	}
     }
 );
 
