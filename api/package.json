@@ -1,0 +1,23 @@
+{
+  "name": "beebase-api",
+  "version": "1.0.0",
+  "description": "REST api for beebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "aws",
+    "lambda"
+  ],
+  "author": "Rob Cornelius",
+  "license": "MIT",
+  "devDependencies": {
+    "bluebird": "^3.7.1",
+    "mongoose": "^5.7.11",
+    "serverless-offline": "^5.12.0",
+    "validator": "^12.0.0"
+  }
+}
