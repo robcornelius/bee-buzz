@@ -112,3 +112,5 @@ const userModel = mongoose.model('User', {
         }
     }
 });
+
+module.exports = userModel;
